@@ -1,6 +1,6 @@
 ### hey there! ✨
 - 🔭 I’m currently working on Bioinformatics, Data Engineering, ML, and AI
-- 🌱 I’m still learning all that i am currently working on hehe 
+- 🌱 I’m still learning all that I'm currently working on hehe 
 - 💬 Ask me about anything!
 - 📫 How to reach me: linkedin.com/in/mazayayumna
 
