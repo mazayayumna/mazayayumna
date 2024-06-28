@@ -1,4 +1,4 @@
-### hey there! ✨
+### Hey there! ✨
 - 🔭 I’m currently working on Bioinformatics, Data Engineering, ML, and AI
 - 🌱 I’m still learning all that I'm currently working on hehe 
 - 💬 Ask me about anything!
